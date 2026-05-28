@@ -1,0 +1,7 @@
+---
+title: "Why is this relevant today?"
+---
+
+The persistence of these debates demonstrates that affirmative action was not just about admissions equality, but represents a larger struggle over race, belonging, opportunity, and the meaning of equality in American society. The protests, debates, and conversations at UCSB reveal how students understood the Regents' decision not merely as an administrative change, but as a threat to broader ideals of access and inclusion within public higher education.
+
+Looking back at the protests and debates at UCSB during the mid-1990s demonstrates how conflicts over affirmative action have remained deeply connected to broader questions about power, inequality, and opportunity in the United States. In the 90s, understandings of "fairness," merit, and equality differed depending on one's experiences with race and access to higher education; and those same identities still shape debates over DEI and educational equity today. The students gathered in Storke Plaza in 1995 understood that the fight over affirmative action was ultimately a fight over who would have access to institutions that shape economic, political, and social power. Today, that fight has not ended, but continues to unfold through ongoing debates over institutional racism and whether society still needs to "keep the doors open."

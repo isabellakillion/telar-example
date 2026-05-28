@@ -1,0 +1,5 @@
+---
+title: "Who else got involved?"
+---
+
+Professors also participated in highlighting the importance of racial considerations in admissions. On the National Day of Action, Asian American studies Professor Janchinson Chan stated he “went over some material” relevant to the protests, and dismissed his students to go support the rallies. According to the Nexus, the National Day of Action featured professors and other speakers who “advocated reinstating the system’s pre-vote Affirmative Action programs and increasing regental accountability to students, faculty, and staff.” The mobilization of students, staff, professors, and other advocates of affirmative action illustrates how deeply many members of the UCSB community believed diversity and equitable access to higher education were worth defending, and highlights the widespread fear that ending affirmative action would reduce opportunities for underrepresented minority students throughout the UC system. 

@@ -8,7 +8,7 @@ url: "https://isabellakillion.github.io"
 baseurl: "/telar-example"
 author: "Isabella Killion"
 email: "isabellakillion@ucsb.edu"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara"
 logo: ""
 telar_language: en
 collection_mode: false
